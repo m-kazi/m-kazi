@@ -1,16 +1,18 @@
-### Hi there 👋
+![Web Developer & Systems Admin](https://pbs.twimg.com/profile_images/1429524155960119302/M62KyXsz.jpg)
 
-<!--
-**m-kazi/m-kazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, This is Kazi
+#### Web Developer & Systems Admin
 
-Here are some ideas to get you started:
+A passionate Web developer with AWS and VMware expertise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: HTML / CSS / REACT / JS / VMWARE / AWS
+
+- 🔭 I’m currently working on Freelance projects. 
+- 🌱 I’m currently learning Tailwind / React / Docker  
+- 👯 I’m looking to collaborate on GitHub. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/m-kazi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kazi.tanim007/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/imkazzzz)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-kazi)](https://github.com/anuraghazra/github-readme-stats)
+
