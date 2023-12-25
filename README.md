@@ -1,5 +1,3 @@
-![Web Developer & Systems Admin](https://pbs.twimg.com/profile_images/1429524155960119302/M62KyXsz.jpg)
-
 ### Hi there 👋, This is Kazi
 #### Web Developer & Systems Admin
 
