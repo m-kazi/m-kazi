@@ -3,7 +3,7 @@
 
 A passionate Web developer with AWS and VMware expertise.
 
-Skills: HTML / CSS / REACT / JS / VMWARE / AWS
+Skills: HTML / CSS / REACT / JS / PYTHON / VMWARE / AWS
 
 - 🔭 I’m currently working on Freelance projects. 
 - 🌱 I’m currently learning Tailwind / React / Docker  
